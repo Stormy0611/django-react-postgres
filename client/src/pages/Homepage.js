@@ -15,9 +15,6 @@ const Homepage = () => {
   const [errors, setErrors] = useState(false)
   const [loading, setLoading] = useState(true)
 
-
-
-
   const fetchData = async () => {
     try {
       const { data } = await axios.get('/api/projects/')

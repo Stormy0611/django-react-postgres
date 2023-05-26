@@ -1,0 +1,12 @@
+
+Frontend: React
+Backend: Django + Postgre DB
+
+1. Review existing code for frontend and backend (Django + React):
+	• Make any suggestions to improve code, to industry standard (clean code);
+	• Suggest any tests that can be implemented for both applications;
+
+2. Deploy app to Azure.
+
+3. Integrate database assets into the Azure platform
+	• images assets are stored in Azure storage.
